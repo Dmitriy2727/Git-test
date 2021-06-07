@@ -1,2 +1,0 @@
-GiT and git HUB
-
